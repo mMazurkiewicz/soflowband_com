@@ -5,7 +5,7 @@ body {
     margin: 0;
     color: white;
     font-family: 'Lato', sans-serif;
-    font-weight: thin;
+    font-weight: 300;
 }
 
 #section1 {
@@ -148,7 +148,7 @@ span.reverse {
     width: 100%;
     position: fixed;
     bottom: 0;
-    background-color: rgb(73, 188, 199);
+    background-color: rgba(73, 188, 199, 0.8);
     height: 20px;
     font-size: 0.7em;
     font-weight: 300;
