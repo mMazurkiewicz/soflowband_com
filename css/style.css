@@ -105,8 +105,8 @@ span.reverse {
     padding: 10% 0 50px 0;
     color: black;
     opacity: 0.8;
-    text-align: justify;
-    text-justify: inter-word;
+    text-align: center;
+    text-justify: break-all;
     font-weight: 300;
     font-size: 2em;
     line-height: 1.5em;
@@ -148,14 +148,14 @@ span.reverse {
     width: 100%;
     position: fixed;
     bottom: 0;
-    background-color: #B8E3E5;
-    height: 50px;
-    font-size: 0.8em;
+    background-color: rgb(73, 188, 199);
+    height: 20px;
+    font-size: 0.5em;
     font-weight: 300;
-    color: black;
-    opacity: 0.8;
+    color: white;
+    opacity: 1;
     text-align: center;
-    line-height: 50px;
+    line-height: 20px;
     margin-bottom: 0;
 }
 
@@ -175,7 +175,7 @@ span.reverse {
         background-size: cover;
     }
     #section2 {
-        font-size: 1.2em;
+        font-size: 1em;
     }
 }
 
@@ -205,6 +205,6 @@ span.reverse {
         background-size: cover;
     }
     #section2 {
-        font-size: 1.2em;
+        font-size: 0.8em;
     }
 }
