@@ -116,7 +116,7 @@ $('.four').on("mouseenter",function() {
 $('.change4').fadeOut(50, function() {
 
 
-$(this).html("DOWNLOAD<br><a href='http://soflowband.com/media/So-Flow-Rider-PL-2016.pdf' target='_blank'>PL</a> / <a href='http://soflowband.com/media/So-Flow-Rider-EN-2016.pdf' target='_blank'>EN<a/>").fadeIn(50);
+$(this).html("<a href='http://soflowband.com/media/SoFlow-Ridertechniczny-v2_2017.pdf' target='_blank'>DOWNLOAD (.pdf)</a>").fadeIn(50);
     });
     });
 

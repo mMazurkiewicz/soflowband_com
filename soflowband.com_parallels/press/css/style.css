@@ -9,6 +9,7 @@
 body {
   background-color: #111122;
   font-weight: 300;
+  font-size: 1em;
 }
 .main-container {
   display: flex;
@@ -22,12 +23,23 @@ body {
 .logo img {
   max-width: 250px;
 }
+.social-media img {
+  width: 18px;
+  margin-right: 8px;
+}
+.social-media p {
+  display: inline-block;
+  vertical-align: top;
+}
 .contact {
   text-align: center;
 }
 .reverse {
   unicode-bidi: bidi-override;
   direction: rtl;
+}
+.margin {
+  margin: 15px 0 10px 0;
 }
 /* ANCHOR RESET */
 
